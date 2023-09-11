@@ -1,0 +1,16 @@
+{
+    "name": "spryker-feature/shipment-product-offer-service-points-availability",
+    "description": "Shipment Product Offer Service Points Availability [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202307.x-dev"
+        }
+    }
+}
