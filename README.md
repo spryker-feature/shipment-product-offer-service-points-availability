@@ -9,4 +9,4 @@ composer require spryker-feature/shipment-product-offer-service-points-availabil
 ```
 
 ## Optional modules
-- [ShipmentTypeProductOfferServicePointAvailabilitiesRestApi ^0.1.0](https://github.com/spryker/shipment-type-product-offer-service-point-availabilities-rest-api) (Legacy Glue)
+- [ShipmentTypeProductOfferServicePointAvailabilitiesRestApi ^1.0.0](https://github.com/spryker/shipment-type-product-offer-service-point-availabilities-rest-api) (Legacy Glue)
