@@ -1,6 +1,6 @@
 # Spryker Feature: Shipment Product Offer Service Points Availability
 
-
+The Shipment Product Offer Service Points Availability feature enhances the Click & Collect experience by checking validity of the Shipment Type when product availability is requested.
 
 ## Installation
 
